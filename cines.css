@@ -1,0 +1,29 @@
+#volver{
+    display: inline-flex; 
+    padding: 20px;
+    background-color: #3498db;
+    color: #000000;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+
+#volver:active{
+    background-color: rgb(253, 201, 104);
+}
+
+body{
+    background-color: rgba(245, 217, 217, 0.842);
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    padding: 0;
+    border-style: dashed;
+}
